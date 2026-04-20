@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate developer with a keen interest in web technologies. I love to create and contribute to projects that are both challenging and rewarding.
+Full-Stack Engineer (Vue/Next.js, NestJS/Go, Flutter) building resilient web and mobile applications. Advocate for standardized Git workflows, semantic versioning, and clean architecture. Operating in CST.
 
 ## My Work 🔍
 
