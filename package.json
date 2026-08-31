@@ -9,12 +9,26 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "dependencies": {
-    "astro": "^7.2.9"
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.2.9",
+    "tailwindcss": "^4.3.3"
   },
   "allowScripts": {
     "esbuild": true
+  },
+  "devDependencies": {
+    "portless": "0.15.6",
+    "prettier": "^3.9.6",
+    "prettier-plugin-astro": "^0.14.1"
+  },
+  "portless": {
+    "name": "landing.glasdou"
   }
 }

@@ -1,0 +1,9 @@
+node_modules
+dist
+.astro
+.agents
+.vscode
+.zed
+public
+bun.lock
+skills-lock.json
