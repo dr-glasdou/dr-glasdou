@@ -1,0 +1,16 @@
+{
+  "languages": {
+    "TypeScript": {
+      "language_servers": ["...", "!biome"],
+      "formatter": "prettier"
+    },
+    "JavaScript": {
+      "language_servers": ["...", "!biome"],
+      "formatter": "prettier"
+    },
+    "Astro": {
+      "language_servers": ["...", "!biome"],
+      "formatter": "prettier"
+    }
+  }
+}
